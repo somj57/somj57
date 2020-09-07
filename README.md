@@ -12,9 +12,16 @@
 
 📌 Hey Guys !! My name <b>Somya</b> and i am <b>Student....</b>
 
-📌 I'm currently pursuing my B.Tech | Computer Science Engineering
+📌 I'm currently pursuing my B.Tech | Computer Science Engineering (CSE)
 
 📌 Here's is some the project that i bulid on python or other languages and share as a form of repositries
 
 📌 I worked mostly on Java to bulid my almost projects and beside that i know c, c++ , python, javascript, PHP etc...
 <hr>
+<h2><b>Hear are some of my works </b></h2> 
+<ul>
+  <li>http://somj57.pythonanywhere.com</li>
+  <li>https://somj57.herokuapp.com</li>
+  <li>https://somj57.github.io/Photography/</li>
+  <li>https://somj57.github.io/TinDog/</li>
+  </ul>
