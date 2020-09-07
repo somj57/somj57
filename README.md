@@ -14,7 +14,7 @@
 
 📌 I'm currently pursuing my B.Tech | Computer Science Engineering (CSE)
 
-📌 Here's is some the project that i bulid on python or other languages and share as a form of repositries
+📌 Here's is some of my project that i bulid on python or other languages and share as a form of repositries
 
 📌 I worked mostly on Java to bulid my almost projects and beside that i know c, c++ , python, javascript, PHP etc...
 <hr>
