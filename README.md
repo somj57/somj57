@@ -7,8 +7,9 @@
 <a href="https://twitter.com/somj57"> <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25px;"></a>
 <hr>
 
-<img src="https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/117631350_830840771057746_8776981686425468198_o.jpg?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=wyE2qpGZVW0AX9m7ZG1&_nc_ht=scontent-bom1-1.xx&oh=5b8247e7d2475257e14a803dc1019169&oe=5F7AF1E7" width="100px;">
+
 <h1><b>About Me</b></h1>
+<img src="https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/117631350_830840771057746_8776981686425468198_o.jpg?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=wyE2qpGZVW0AX9m7ZG1&_nc_ht=scontent-bom1-1.xx&oh=5b8247e7d2475257e14a803dc1019169&oe=5F7AF1E7" width="100px;">
 
 👉🏽 Hey Guys !! My name <b>Somya</b> and i am <b>Student and a Developer</b>
 
