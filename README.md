@@ -21,10 +21,10 @@
 <hr>
 <h2><b>Hear are some of my works </b></h2> 
 <ul>
-  <li>https://somj57.pythonanywhere.com</li>
-  <li>https://somj57.herokuapp.com</li>
-  <li>https://somj57.github.io/Photography/</li>
-  <li>https://somj57.github.io/TinDog/</li>
+  <li>🔗https://somj57.pythonanywhere.com</li>
+  <li>🔗https://somj57.herokuapp.com</li>
+  <li>🔗https://somj57.github.io/Photography/</li>
+  <li>🔗https://somj57.github.io/TinDog/</li>
   </ul>
 <hr>
 <h2><b>Languages and Tools 🧰 </b></h2> 
