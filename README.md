@@ -6,6 +6,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/somj57"> <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25px;"></a>
 <hr>
+<br>
+<h3>Signup For My NewsLetter</h3>
+<p>🔗http://somyajaiswal.herokuapp.com/</p>
 
 
 <h1><b>About Me</b></h1>
