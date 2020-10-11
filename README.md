@@ -11,7 +11,7 @@
 <hr>
 
 <h1><b>About Me</b></h1>
-<img src="https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/117631350_830840771057746_8776981686425468198_o.jpg?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=wyE2qpGZVW0AX9m7ZG1&_nc_ht=scontent-bom1-1.xx&oh=5b8247e7d2475257e14a803dc1019169&oe=5F7AF1E7" width="100px;">
+<img src="https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/117631350_830840771057746_8776981686425468198_o.jpg?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=-pwLvdnHU4AAX8zg_Nz&_nc_ht=scontent-bom1-1.xx&oh=d39c088d21f6d835ed20372701decc48&oe=5FA67367" width="100px;">
 
 👉🏽 Hey Guys !! My name <b>Somya</b> and i am <b>Student and a Developer</b>
 
