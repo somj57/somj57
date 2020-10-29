@@ -21,7 +21,7 @@
 
 👉🏽 I love eating 😂
 <hr>
-<h2><b>Hear are some of my works </b></h2> 
+<h2><b>Hear are some of my work's </b></h2> 
 <ul>
   <li>🔗https://somj57.pythonanywhere.com</li>
   <li>🔗https://somj57.herokuapp.com</li>
