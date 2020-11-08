@@ -19,7 +19,7 @@
 
 👉🏽 Here's is some of my project that i bulid on python or other languages and share as a form of repositries
 
-👉🏽 I love eating 🍬
+👉🏽 I love eating 🍙
 <hr>
 <h2><b>Hear are some of my work's </b></h2> 
 <ul>
