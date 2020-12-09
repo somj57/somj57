@@ -7,10 +7,10 @@
 <a href="https://twitter.com/somj57"> <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25px;"></a>
 <br>
 <h3>My Portfolio</h3>
-<p>🔗http://somj57.pythonanywhere.com</p>
+<p>🔗https://somj57.pythonanywhere.com</p>
 <br>
 <h3>Signup For My NewsLetter</h3>
-<p>🔗http://somyajaiswal.herokuapp.com/</p>
+<p>🔗https://somyajaiswal.herokuapp.com/</p>
 <hr>
 
 <h1><b>About Me</b></h1>
