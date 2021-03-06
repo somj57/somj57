@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="#">
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=somj57&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
+
 ### Hi there .👋
 # My Social Media Handler's
 <a href="https://www.instagram.com/som.jaiswal.sj/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
