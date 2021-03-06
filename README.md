@@ -76,7 +76,14 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=somj57&layout=compact&theme=material-palenight" />
 </a>
+
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=somj57&repo=smart-brain-site&theme=material-palenight" />
+</a>
+
 </p>
+
 <p align="right">
   <a href="#">
       <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=somj57&repo=github-visitors-badge&countColor=%237B1E7A" />
