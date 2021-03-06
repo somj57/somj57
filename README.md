@@ -77,4 +77,9 @@
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width="100"/>
 
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=somj57&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=somj57&layout=compact&theme=material-palenight" />
+</a>
 </p>
