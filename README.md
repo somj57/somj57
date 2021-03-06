@@ -76,5 +76,5 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=somj57&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=false&count_private=true" >
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=somj57&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
 </p>
