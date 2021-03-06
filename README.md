@@ -6,11 +6,11 @@
 
 ### Hi there .👋
 # My Social Media Handler's
-<a href="https://www.instagram.com/som.jaiswal.sj/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/somya-jaiswal-48b32b19b/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/som.jaiswal.144/"> <img src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" width="25px;"></a>
+<a href="https://www.instagram.com/som.jaiswal.sj/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/somya-jaiswal-48b32b19b/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/som.jaiswal.144/"> <img src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" width="25px;"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/somj57"> <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25px;"></a>
+<a href="https://twitter.com/somj57"> <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25px;"/></a>
 <br>
 <h3>My Portfolio</h3>
 <p>🔗https://somj57.pythonanywhere.com</p>
@@ -67,14 +67,14 @@
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" width="100"/>
+<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" width="100"/>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" width="100"/>
+<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" width="100"/>
+<img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white" width="100"/>
+<img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" width="100"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" width="100"/>
+<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width="100"/>
 
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=somj57&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
 </p>
