@@ -21,7 +21,7 @@
 <hr>
 
 <h1><b>About Me</b></h1>
-<img src="https://scontent.fidr1-2.fna.fbcdn.net/v/t1.0-9/117631350_830840771057746_8776981686425468198_o.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=34N0YcpecJcAX_k_S-X&_nc_ht=scontent.fidr1-2.fna&oh=4802d0ed7fb8d989a1c030a21320fded&oe=5FD1F4E7" width="100px;">
+<img src="https://raw.githubusercontent.com/somj57/Somya-jaiswal/master/som7.jpg" width="100px;">
 
 👉🏽 Hey Guys !! My name <b>Somya</b> and i am <b>Student and a Developer</b>
 
