@@ -1,4 +1,4 @@
-### Hi there .👋
+### Hi there .👋🏼👋🏼
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somj57&label=MyProfileViews&color=blue&style=plastic%22%20alt=%somj57" /> </p>
 
 # My Social Media Handler's
