@@ -12,6 +12,8 @@
 <p>🔗https://somj57.pythonanywhere.com</p>
 <h3>Youtube</h3>
 <p>🔗https://www.youtube.com/channel/UCmiGuWKPEFcXyB7lX-2qxMw</p>
+<h3>Medium</h3>
+<p>🔗https://somj57.medium.com</p>
 <h3>Signup For My NewsLetter</h3>
 <p>🔗https://somyajaiswal.herokuapp.com/</p>
 <hr>
